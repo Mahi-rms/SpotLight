@@ -1,6 +1,6 @@
 # SpotLight
-A Virtual Assistant
-We are from Team Error-404
+A Virtual Assistant |
+We are from Team Error-404 |
 This is our in-course Project Work.
 ## https://spotlight-webapp.herokuapp.com
 
@@ -15,8 +15,8 @@ This is our in-course Project Work.
 2. What is my IP?
 3. What is my current location?
 4. Tell me a joke.
-5. Tell me about <moviename> movie.
-6. Tell me about <anything>. Ex: Tell me about Barack Obama.
+5. Tell me about 'moviename' movie.
+6. Tell me about 'anything'. Ex: Tell me about Barack Obama.
 7. Any Expression. Ex: 2+3*5...
-8. Open <any website> Ex: Open Gmail or Open Youtube...
+8. Open 'any website' Ex: Open Gmail or Open Youtube...
 etc
